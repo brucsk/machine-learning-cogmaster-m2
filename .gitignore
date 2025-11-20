@@ -1,0 +1,12 @@
+﻿# Ignore data and heavy files
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.mp4
+*.mov
+*.npy
+__MACOSX/
+mnist_data/
+data/
